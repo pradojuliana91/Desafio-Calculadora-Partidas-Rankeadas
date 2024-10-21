@@ -1,0 +1,14 @@
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Calculadora-Partidas-Rankeadas\CalculadoraPartidas\bin\Debug\net8.0\CalculadoraPartidas.exe
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Calculadora-Partidas-Rankeadas\CalculadoraPartidas\bin\Debug\net8.0\CalculadoraPartidas.deps.json
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Calculadora-Partidas-Rankeadas\CalculadoraPartidas\bin\Debug\net8.0\CalculadoraPartidas.runtimeconfig.json
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Calculadora-Partidas-Rankeadas\CalculadoraPartidas\bin\Debug\net8.0\CalculadoraPartidas.dll
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Calculadora-Partidas-Rankeadas\CalculadoraPartidas\bin\Debug\net8.0\CalculadoraPartidas.pdb
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Calculadora-Partidas-Rankeadas\CalculadoraPartidas\obj\Debug\net8.0\CalculadoraPartidas.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Calculadora-Partidas-Rankeadas\CalculadoraPartidas\obj\Debug\net8.0\CalculadoraPartidas.AssemblyInfoInputs.cache
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Calculadora-Partidas-Rankeadas\CalculadoraPartidas\obj\Debug\net8.0\CalculadoraPartidas.AssemblyInfo.cs
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Calculadora-Partidas-Rankeadas\CalculadoraPartidas\obj\Debug\net8.0\CalculadoraPartidas.csproj.CoreCompileInputs.cache
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Calculadora-Partidas-Rankeadas\CalculadoraPartidas\obj\Debug\net8.0\CalculadoraPartidas.dll
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Calculadora-Partidas-Rankeadas\CalculadoraPartidas\obj\Debug\net8.0\refint\CalculadoraPartidas.dll
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Calculadora-Partidas-Rankeadas\CalculadoraPartidas\obj\Debug\net8.0\CalculadoraPartidas.pdb
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Calculadora-Partidas-Rankeadas\CalculadoraPartidas\obj\Debug\net8.0\CalculadoraPartidas.genruntimeconfig.cache
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Calculadora-Partidas-Rankeadas\CalculadoraPartidas\obj\Debug\net8.0\ref\CalculadoraPartidas.dll
